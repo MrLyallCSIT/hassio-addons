@@ -1,9 +1,9 @@
 ---
 name: Globalping
-version: "1.0.1"
+version: "1.1.0"
 slug: globalping
 description: Monitor, debug and benchmark your internet infrastructure from a globally distributed network of probes
-url: https://github.com/erwin-willems/hassio-addons
+url: https://github.com/MrLyallCSIT/hassio-addons
 codenotary: codenotary@frenck.dev
 panel_icon: mdi:shield-check
 startup: services
